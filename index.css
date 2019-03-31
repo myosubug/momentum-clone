@@ -1,0 +1,15 @@
+
+body{
+    color: yellowgreen;
+    background-color: black;
+}
+
+.form,
+.greetings {
+    display: none;
+}
+
+.showing {
+    display: block;
+}
+
