@@ -7,10 +7,11 @@
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+.DS_Store
 
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
 .history
-*.DS_Store
+
 
 # End of https://www.gitignore.io/api/visualstudiocode
