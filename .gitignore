@@ -14,7 +14,7 @@
 .history
 
 
-# Extra useless files to add to git
+# Extra useless files to remove from git
 .DS_Store
 
 # End of https://www.gitignore.io/api/visualstudiocode
