@@ -2,10 +2,10 @@
 
 This is an app that can:
 
-display time
-add and delete to-dos
-show greetings
-display weather through api from open weather
+* display time
+* add and delete to-dos
+* show greetings
+* display weather through api from open weather
 
 ## Live example
 
