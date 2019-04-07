@@ -11,11 +11,11 @@ This is an app that can:
 
 * https://myosubug.github.io/momentum-clone/
 
-### Prerequisites
+## Prerequisites
 
 * any web browser
 
-### Installing
+## Installing
 
 No installation is required.
 
