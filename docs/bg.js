@@ -9,7 +9,7 @@ function paintImage(imgNum){
 }
 
 function generateRandom(){
-    const number = Math.floor(Math.random() * 6);
+    const number = Math.floor(Math.random() * 9);
     return number;
 }   
 
