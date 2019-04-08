@@ -1,3 +1,5 @@
+Momentum Chrome Extension : https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en
+
 # momentum clone
 
 This is an app that can:
