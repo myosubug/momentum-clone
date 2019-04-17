@@ -25,7 +25,7 @@ function askForName(){
 function parintGreeting(text){
     form.classList.remove(SHOWING_CLASSNAME);
     greeting.classList.add(SHOWING_CLASSNAME);
-    greeting.innerText = `Hello ${text}`;
+    greeting.innerText = `Hello, ${text}!`;
 }
 
 function loadName(){
